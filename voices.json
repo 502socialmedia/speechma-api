@@ -1,0 +1,14 @@
+{
+  "voices": [
+    {
+      "name": "voice1",
+      "language": "en",
+      "gender": "female"
+    },
+    {
+      "name": "voice2",
+      "language": "ar",
+      "gender": "male"
+    }
+  ]
+}
