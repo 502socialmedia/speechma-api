@@ -1,14 +1,28 @@
 {
   "voices": [
     {
-      "name": "voice1",
-      "language": "en",
-      "gender": "female"
+      "name": "ar-EG-ShakirNeural",
+      "language": "ar",
+      "gender": "male",
+      "description": "مصري"
     },
     {
-      "name": "voice2",
+      "name": "ar-SA-ZariyahNeural",
       "language": "ar",
-      "gender": "male"
+      "gender": "female",
+      "description": "سعودي"
+    },
+    {
+      "name": "en-US-JennyNeural",
+      "language": "en",
+      "gender": "female",
+      "description": "American Female"
+    },
+    {
+      "name": "en-US-GuyNeural",
+      "language": "en",
+      "gender": "male",
+      "description": "American Male"
     }
   ]
 }
